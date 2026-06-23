@@ -1,0 +1,8 @@
+services:
+  - type: worker
+    name: firsat-takip-botu
+    runtime: docker
+    plan: free
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
