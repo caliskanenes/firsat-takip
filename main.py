@@ -10,7 +10,7 @@ from datetime import datetime
 # AYARLAR - Sadece burası değiştir!
 # ============================================================
 TELEGRAM_TOKEN = "8857167618:AAF3m1zCDteHcMU6QtORN0kFqrM3IUYCQ-I"
-TELEGRAM_CHAT_ID = "922428916"
+TELEGRAM_CHAT_ID = "622428916"
 KONTROL_SURESI = 60  # saniye (60 = 1 dakikada bir)
 # ============================================================
 
